@@ -44,3 +44,7 @@ Directory Structure
         ├── modeling    <- scripts for generating models
     |--- environment.yml <- file with libraries and library versions for recreating the analysis environment
    
+## Data
+
+- 從官方下載到的所有資料: data/raw/*
+- 處理好的問題集尚未轉成SQUAD格式: data/processed/*.csv
